@@ -1,7 +1,13 @@
 # CodepathWeek9
 
-Which Honeypot(s) you deployed: Ubuntu - Dionaea with HTTP
+Which Honeypot(s) you deployed: 
+
+Ubuntu - Dionaea with HTTP
+
+
 Any issues you encountered: Setting up the firewalls took a very long time. 
+
+
 A summary of the data collected: number of attacks, number of malware samples, etc.
 11, 127 attacks in the last 24 hours
 
